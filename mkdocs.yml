@@ -1,0 +1,8 @@
+site_name: Mi Documentacion
+
+nav:
+  - Inicio: index.md
+  - Variables: variables.md
+  - Condicionales: condicionales.md
+  - Bucles: bucles.md
+  - Ejemplo: ejemplo.md
